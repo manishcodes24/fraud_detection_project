@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+outputs/*.png
+data/creditcard.csv
+data/processed_data.csv
