@@ -2,4 +2,7 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Excluded large files
 data/creditcard.csv
+data/processed_data.csv
